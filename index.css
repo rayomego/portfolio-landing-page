@@ -34,5 +34,11 @@ img{
     border-bottom:20px ;
     margin-bottom: 100px;
     height: 600px;
-    position: sticky;
+    position: inherit;
+}
+.p1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+
+
 }
