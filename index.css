@@ -48,6 +48,10 @@ img{
     font-style: italic;
 
 }
+.About p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .Hobbies{
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
